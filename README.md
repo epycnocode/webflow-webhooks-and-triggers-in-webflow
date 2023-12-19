@@ -45,16 +45,5 @@ HTML
 
 ```
 
-This code sends information about the visited page (title and URL) to your Airtable base whenever someone visits that page.
-
-**5. Remember:**
-  - Choose the right trigger event and target service for your desired automation.
-  - Test your workflows thoroughly to ensure they function smoothly.
-  - Explore Webflow's resources and community for inspiration and troubleshooting.
-
-**Bonus Tip:** Consider using Webflow Interactions to trigger custom animations or UI changes based on your webhook notifications.
-
-By embracing webhooks and triggers, you can unlock a world of automation possibilities, freeing yourself from repetitive tasks and focusing on what matters most. So, go forth, automate your workflow, and let your Webflow site work its magic!
-
 # Need Help?
 Need a High Converting [SaaS Landing Page](https://epyc.in/)?
